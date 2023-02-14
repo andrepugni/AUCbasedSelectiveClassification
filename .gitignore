@@ -1,0 +1,4 @@
+#add folders to remove
+data/
+models/
+results/
