@@ -8,7 +8,14 @@ All the code was run on a machine with Ubuntu 20.04.4 and using programming lang
 
 ## Usage
 
-Download this repository from GitHub and then place downloaded data in 'code/data'.
+Download this repository from GitHub.
+
+Data can be downloaded from [here](https://www.dropbox.com/sh/114h860wxf85q0j/AAAI7bFVthqWWC5U8iaRpzSJa?dl=0).
+Place them in folder 'code/data'.
+
+Deep Neural Network models can be downloaded from [here](https://www.dropbox.com/sh/zwtskpq5f4tuuh0/AABEWccp0In_KqRaCSiqRGBPa?dl=0).
+Place them in folder 'code/models'.
+
 We suggest to create a new environment using:
 
 ```bash
@@ -60,8 +67,6 @@ $ python exp_tabdata.py --model DESIRED_CLASSIFIER --boot_iter 1000 --cv 5 --met
 ```
 where DESIRED_CLASSIFIER  can take as value 'rf' for Random Forest, 'logistic' for Logistic Regression, 'resnet' for ResNet and 'xgboost' for XGBoost.
 
-
-All the models used for image data are stored in this link here[](), to avoid retraining them. 
 If you want to retrain models from scratch (e.g. you want to check training times),
 go on exp_imdata.py and change all the lines referring directly to the models' path.
 
