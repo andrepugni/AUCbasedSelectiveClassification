@@ -27,7 +27,7 @@ python exp_imdata.py --metas aucross scross plugin pluginAUC selnet sat
 
 To run experiments for Table 2
 
-$$ python exp_oracle_tabdata.py $$
+> python exp_oracle_tabdata.py
 
 python exp_oracle_imdata.py
 
