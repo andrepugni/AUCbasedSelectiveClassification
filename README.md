@@ -1,5 +1,5 @@
 # AUCbasedSelectiveClassification
-This is the repository for AUC-based Selective Classification
+This is the repository for [AUC-based Selective Classification](https://proceedings.mlr.press/v206/pugnana23a.html).
 
 
 ## System specifics
