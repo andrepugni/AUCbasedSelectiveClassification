@@ -1,5 +1,5 @@
 # AUCbasedSelectiveClassification
-This is the repository for [AUC-based Selective Classification](https://proceedings.mlr.press/v206/pugnana23a.html).
+This is the repository for the AISTATS 2023 paper [AUC-based Selective Classification](https://proceedings.mlr.press/v206/pugnana23a.html).
 
 
 ## System specifics
